@@ -13,8 +13,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center" margin-bottom: 20px;>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="300" height="200/>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600" height="300"/>
 </div>
     
 ---
