@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://attic.sh/vf2hli7mpxpuz1hk8rbq0g9wx861" width="100"
+  <img src="https://attic.sh/vf2hli7mpxpuz1hk8rbq0g9wx861" width="200"
 </div>
 
 <div id="badges">
@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="500" height="200"/>
 </div>
     
 ---
