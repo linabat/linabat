@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvideos%2Fcartoon-of-the-people-falling-down&psig=AOvVaw0al09y1P858vsuLgZcbJx2&ust=1726175059204000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjHuLPlu4gDFQAAAAAdAAAAABAQ" width="600"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600"/>
 </div>
 
 ---
