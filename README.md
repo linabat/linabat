@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600" height="300/>
 </div>
 
 ---
