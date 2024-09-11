@@ -1,5 +1,5 @@
-<div id="header" style="text-align: center;">
-  <img src="https://attic.sh/vf2hli7mpxpuz1hk8rbq0g9wx861" width="100"/>
+<div id="header" align="center">
+  <img src="https://attic.sh/vf2hli7mpxpuz1hk8rbq0g9wx861" width="100"
 </div>
 
 <div id="badges">
@@ -8,5 +8,6 @@
 </div>
 
 <h1>
-  hi there! hope you're having a fabulous day :) 
+  hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
