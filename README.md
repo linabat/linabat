@@ -14,10 +14,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="600" height="300/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI0fSe-i0ruT-nA6gAUgtTcaCDMoManl4zoYQ8KzTeREnVH3ayLl2jYWBiSknESlZuvY&usqp=CAU" width="300" height="200/>
 </div>
-\br
-
 ---
 ### 👩‍💻: About Me: 
 - 👩‍🎓 I am a 4th year at <a href="https://ucsd.edu/">UC San Diego</a>, majoring in the data science and minoring in Cognitive Science and Healthcare Social Issues.
