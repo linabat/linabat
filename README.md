@@ -1,5 +1,5 @@
-<div id="header" align="center>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojis.sh%2Femoji%2Fwoman-ninja-programmer-with-laptop-frlaPIJhFq&psig=AOvVaw0SMu7uTDXt5oCsPqLddsFF&ust=1726173124386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCGi5Heu4gDFQAAAAAdAAAAABAE" width="100"/>
+<div id="header" style="text-align: center;">
+  <img src="https://attic.sh/vf2hli7mpxpuz1hk8rbq0g9wx861" width="100"/>
 </div>
 
 <div id="badges">
