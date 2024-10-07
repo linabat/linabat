@@ -38,3 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+### 💟 Current Favorite Project: 
+<a href="https://github.com/linabat/book_blog?tab=readme-ov-file"> My Book Blog </a>
